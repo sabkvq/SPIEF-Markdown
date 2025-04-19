@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Развитие в качестве SRE, DevOps и Архитектора
 ---
 
 This is a blank Quartz installation.
