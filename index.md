@@ -1,5 +1,18 @@
 ---
-title: Welcome to Quartz
+title: Карьерный план
 ---
-This is a blank Quartz installation.
-See the [documentation] for how to get started.
+# [[Младший системный инженер]]
+
+
+# [[Middle DevOps & Site-reliability Engineer & System Administrator]]
+
+# [[Senior SRE & DevOps]]
+
+
+# [[Архитектор & TeamLead]]
+
+
+# [[MLOps специфика]]
+# [[FinTech специфика]]
+
+# [[ВКС-специфика]]

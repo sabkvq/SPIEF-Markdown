@@ -1,1 +1,4 @@
-[[Prometheus]]
+---
+tags:
+  - monitoring
+---
