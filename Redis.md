@@ -1,5 +1,0 @@
----
-tags:
-  - database/nosql
-  - broker
----

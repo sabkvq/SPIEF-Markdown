@@ -1,4 +1,0 @@
----
-tags:
-  - version_control
----
